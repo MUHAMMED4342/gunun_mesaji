@@ -1,29 +1,56 @@
-18.10.2026
+04.11.2026
 "tr:
-Merhaba! Bu güncellemede güzel haberlerim var.
-Portekizce dil desteği eklendi! Çevirileri yapan jp'ye gönülden çok teşekkür ederiz, emeği için sağ olsun.
-Artık oyunun ana penceresinde bir geçmiş yazı alanı var. Duyurulan olayları, kârları ve alım satımları oradan sakince okuyabilirsiniz.
-Hatırlarsanız geçen güncellemede size bir sonraki güncelleme için çok güzel bir sürprizim olduğunu söylemiştim. İşte o sürpriz geldi: Her 7 günde bir gönderdiğim günün mesajlarından sonra hesabınıza 1.000.000 lira eklenecek! Mesajı görünce bakiyenize yansır, hem de size söylenir.
-Ayrıca hile korumaları eklendi ve oyunun güvenliği artırıldı. Skor tablosunun adil kalması için hepimizin buna ihtiyacı var.
+Merhaba! Bu mesajda depo sistemini anlatacağım, çünkü "depo nasıl çalışıyor, ne işe yarıyor?" diye soranlar olmuş.
+
+Depo, arsa aldığınızda devreye giren ayrı bir saklama alanıdır. Arsa yönetimi ekranındaki "Depo" düğmesiyle açılır. Ana envanterinizdeki malların toplam piyasa değeri belirli bir sınırı aşınca yeni alım yapamazsınız; işte bu sınırı aşmanın yolu arsa almaktır. Sahip olduğunuz her arsa, alış fiyatının yarısı kadar değerde mal alan ortak bir depoya katkı yapar. Yani arsa sayınız arttıkça depo kapasiteniz de büyür.
+
+Depoya mal koymak için: Depo penceresinde listeden ürünü seçin, miktarı girin ve "Depoya Koy" deyin. Dilerseniz "Tümünü Koy" ile elinizdeki tüm stoğu tek seferde aktarabilirsiniz. Depodaki mallar ana envanterde görünmez ve ana envanter kapasitesini işgal etmez; böylece yeni alımlar için yer açılır. İhtiyacınız olduğunda aynı pencereden "Depodan Al" veya "Tümünü Al" ile malları geri alabilirsiniz. Depodan geri alma işlemi ana envanter kapasitesine bakmaz, yani kendi malınızı asla depoda mahsur bırakmazsınız. Yalnızca yeni alım yaparken ana envanter sınırına dikkat etmeniz gerekir.
+
+Bir uyarı: depodaki yasa dışı mallar polis riskine hâlâ katkıda bulunur, ama envanterdekinden daha az görünür. Bu yüzden her şeyi depoya koyup polisten tamamen kaçmak mümkün değil. Ayrıca bir arsayı satmadan önce deponuzdaki malın yeni kapasiteye sığdığından emin olun; sığmıyorsa satış engellenir ve önce depodan mal almanız istenir.
+
+Şimdi güzel bir haber: Türkçe dilinde çalışan bir bilgi yarışması oyunu beta olarak yayımlandı! Denemek için şu adrese göz atın: https://bilgiarena.netlify.app/ — deneyip fikirlerinizi paylaşırsanız çok seviniriz, geri bildiriminiz oyunu geliştirmemize yardımcı olur.
+
+Yakında çıkacak bir başka oyunumuz da metin tabanlı bir siber saldırı oyunu olacak; onunla ilgili haberleri de buradan duyuracağım.
+
+Son olarak: yakında oyuna birçok yeni dil eklenecek. Bunlar arasında Almanca, Hintçe ve daha birçok dil var. Yeni diller hazır oldukça buradan duyuracağım.
+
 Bir sorun görürseniz ya da bir fikriniz olursa destek bileti göndermekten çekinmeyin. Keyifli oyunlar!
 ""en:
-Hello! I have some good news for you in this update.
-Portuguese language support has been added! A big thank you to jp, who did the translations. We really appreciate the effort.
-The main window now has a history text field, so you can calmly read back announcements, profits and trades.
-As you may remember, in the last update I told you that I had a very nice surprise for the next update. Well, here it is: after the daily messages I send every 7 days, 1,000,000 will be added to your cash! It shows up in your balance when you see the message, and you will be told about it.
-Cheat protections have also been added and the game's security has been improved. We all need this to keep the leaderboard fair.
+Hello! In this message I want to explain the warehouse system, because some of you have asked "how does the warehouse work, what is it for?"
+
+The warehouse is a separate storage area that comes into play when you buy land. It is opened with the "Warehouse" button on the land management screen. When the total market value of the goods in your main inventory exceeds a certain limit, you cannot buy more; the way to get past that limit is to buy land. Every plot you own contributes to a shared warehouse that holds goods worth half of its purchase price. So the more land you have, the larger your warehouse capacity.
+
+To put goods into the warehouse: in the Warehouse window, select a product from the list, enter a quantity and press "Deposit". You can also use "Deposit All" to move your entire stock at once. Goods in the warehouse do not appear in your main inventory and do not occupy main inventory capacity, so they free up room for new purchases. When you need them, you can take them back with "Withdraw" or "Withdraw All" from the same window. Withdrawing does not check main inventory capacity, so you will never get your own goods stuck in the warehouse. Only new purchases are limited by the main inventory limit.
+
+One warning: illegal goods in the warehouse still contribute to police risk, though they are less visible than goods in your inventory. So you cannot completely escape the police by moving everything into the warehouse. Also, before selling a plot, make sure the goods in your warehouse fit into the new capacity; if they do not, the sale is blocked and you are asked to withdraw goods first.
+
+Finally: many new languages will be added to the game soon. These include German, Hindi and many more. I will announce new languages here as they become ready.
+
 If you notice a problem or have an idea, feel free to send a support ticket. Enjoy the game!
-""id:
-Halo! Ada kabar baik untuk Anda di pembaruan ini.
-Dukungan bahasa Portugis telah ditambahkan! Terima kasih banyak kepada jp yang telah mengerjakan terjemahannya. Kami sangat menghargai usahanya.
-Jendela utama kini memiliki kolom teks riwayat, sehingga Anda bisa membaca ulang pengumuman, keuntungan, dan transaksi dengan tenang.
-Seperti yang mungkin Anda ingat, pada pembaruan terakhir saya memberi tahu Anda bahwa saya punya kejutan menyenangkan untuk pembaruan berikutnya. Nah, inilah kejutannya: setelah pesan harian yang saya kirim setiap 7 hari, uang tunai Anda akan bertambah 1.000.000! Jumlahnya langsung masuk ke saldo Anda saat pesan ditampilkan, dan hal itu akan diumumkan kepada Anda.
-Selain itu, perlindungan terhadap kecurangan telah ditambahkan dan keamanan game ditingkatkan. Kita semua membutuhkannya agar papan peringkat tetap adil.
+"
+"id:
+Halo! Dalam pesan ini saya ingin menjelaskan sistem gudang, karena beberapa dari Anda bertanya "bagaimana gudang bekerja, untuk apa?"
+
+Gudang adalah area penyimpanan terpisah yang aktif saat Anda membeli tanah. Gudang dibuka dengan tombol "Gudang" di layar pengelolaan tanah. Ketika total nilai pasar barang di inventaris utama Anda melewati batas tertentu, Anda tidak bisa membeli lagi; cara untuk melewati batas itu adalah membeli tanah. Setiap bidang tanah yang Anda miliki menyumbang ke gudang bersama yang menampung barang senilai setengah dari harga belinya. Jadi semakin banyak tanah, semakin besar kapasitas gudang Anda.
+
+Untuk menaruh barang di gudang: di jendela Gudang, pilih produk dari daftar, masukkan jumlah dan tekan "Simpan". Anda juga bisa memakai "Simpan Semua" untuk memindahkan seluruh stok sekaligus. Barang di gudang tidak muncul di inventaris utama dan tidak memakan kapasitas inventaris utama, sehingga memberi ruang untuk pembelian baru. Saat dibutuhkan, ambil kembali dengan "Ambil" atau "Ambil Semua" dari jendela yang sama. Mengambil tidak memeriksa kapasitas inventaris utama, jadi barang Anda tidak akan pernah terjebak di gudang. Hanya pembelian baru yang dibatasi oleh batas inventaris utama.
+
+Satu peringatan: barang ilegal di gudang tetap berkontribusi pada risiko polisi, meskipun lebih tidak terlihat dibandingkan barang di inventaris Anda. Jadi Anda tidak bisa sepenuhnya menghindari polisi dengan memindahkan semuanya ke gudang. Selain itu, sebelum menjual tanah, pastikan barang di gudang Anda muat dalam kapasitas baru; jika tidak, penjualan diblokir dan Anda diminta menarik barang terlebih dahulu.
+
+Terakhir: banyak bahasa baru akan segera ditambahkan ke game. Di antaranya Jerman, Hindi dan masih banyak lagi. Saya akan mengumumkan bahasa baru di sini begitu siap.
+
 Jika Anda menemukan masalah atau punya ide, jangan ragu mengirim tiket dukungan. Selamat bermain!
-""pt:
-Olá! Tenho boas notícias para você nesta atualização.
-O suporte ao idioma português foi adicionado! Um grande obrigado ao jp, que fez as traduções. Agradecemos muito o esforço.
-A janela principal agora tem um campo de texto de histórico, para você ler com calma os anúncios, os lucros e as negociações.
-Como você deve se lembrar, na última atualização eu disse que tinha uma surpresa muito legal para a próxima atualização. Pois bem, aqui está ela: depois das mensagens diárias que envio a cada 7 dias, 1.000.000 serão adicionados ao seu dinheiro! O valor entra no seu saldo quando você vê a mensagem, e você será avisado.
-Também foram adicionadas proteções contra trapaças e a segurança do jogo foi reforçada. Todos nós precisamos disso para manter a classificação justa.
-Se você notar algum problema ou tiver uma ideia, fique à vontade para enviar um chamado de suporte. Bom jogo!"
+"
+"pt:
+Olá! Nesta mensagem quero explicar o sistema de armazém, porque algumas pessoas perguntaram "como o armazém funciona, para que serve?"
+
+O armazém é uma área de armazenamento separada que entra em ação quando você compra terrenos. Ele é aberto com o botão "Armazém" na tela de gestão de terrenos. Quando o valor total de mercado dos bens no seu inventário principal ultrapassa um certo limite, você não pode comprar mais; a forma de passar desse limite é comprar terrenos. Cada terreno que você possui contribui para um armazém compartilhado que guarda bens no valor de metade do preço de compra. Então, quanto mais terrenos você tiver, maior será a capacidade do seu armazém.
+
+Para colocar bens no armazém: na janela do Armazém, selecione um produto na lista, informe uma quantidade e pressione "Depositar". Você também pode usar "Depositar Tudo" para mover todo o seu estoque de uma vez. Os bens no armazém não aparecem no inventário principal e não ocupam a capacidade do inventário principal, então liberam espaço para novas compras. Quando precisar deles, você pode retirá-los com "Retirar" ou "Retirar Tudo" na mesma janela. A retirada não verifica a capacidade do inventário principal, então seus próprios bens nunca ficarão presos no armazém. Apenas novas compras são limitadas pelo limite do inventário principal.
+
+Um aviso: bens ilegais no armazém ainda contribuem para o risco policial, embora sejam menos visíveis do que os bens no seu inventário. Por isso você não consegue escapar completamente da polícia movendo tudo para o armazém. Além disso, antes de vender um terreno, certifique-se de que os bens no seu armazém cabem na nova capacidade; se não couberem, a venda é bloqueada e você é solicitado a retirar bens primeiro.
+
+Por fim: muitas novas línguas serão adicionadas ao jogo em breve. Entre elas estão alemão, híndi e muitas outras. Anunciarei aqui as novas línguas assim que estiverem prontas.
+
+Se você notar algum problema ou tiver uma ideia, fique à vontade para enviar um chamado de suporte. Bom jogo!
+"
