@@ -1,56 +1,64 @@
-04.11.2026
+05.11.2026
 "tr:
-Merhaba! Bu mesajda depo sistemini anlatacağım, çünkü "depo nasıl çalışıyor, ne işe yarıyor?" diye soranlar olmuş.
+Merhaba! Bu güncellemede dil müjdem var.
 
-Depo, arsa aldığınızda devreye giren ayrı bir saklama alanıdır. Arsa yönetimi ekranındaki "Depo" düğmesiyle açılır. Ana envanterinizdeki malların toplam piyasa değeri belirli bir sınırı aşınca yeni alım yapamazsınız; işte bu sınırı aşmanın yolu arsa almaktır. Sahip olduğunuz her arsa, alış fiyatının yarısı kadar değerde mal alan ortak bir depoya katkı yapar. Yani arsa sayınız arttıkça depo kapasiteniz de büyür.
+Almanca, Fransızca, Çince, Japonca ve Hintçe dil desteği eklendi! Artık oyunu bu dillerde de oynayabilirsiniz. Dili Ayarlar'daki Dili Değiştir düğmesinden seçebilirsiniz.
 
-Depoya mal koymak için: Depo penceresinde listeden ürünü seçin, miktarı girin ve "Depoya Koy" deyin. Dilerseniz "Tümünü Koy" ile elinizdeki tüm stoğu tek seferde aktarabilirsiniz. Depodaki mallar ana envanterde görünmez ve ana envanter kapasitesini işgal etmez; böylece yeni alımlar için yer açılır. İhtiyacınız olduğunda aynı pencereden "Depodan Al" veya "Tümünü Al" ile malları geri alabilirsiniz. Depodan geri alma işlemi ana envanter kapasitesine bakmaz, yani kendi malınızı asla depoda mahsur bırakmazsınız. Yalnızca yeni alım yaparken ana envanter sınırına dikkat etmeniz gerekir.
+Çeviriler yapay zekâ yardımıyla hazırlandı, bu yüzden bazı yerlerde hatalar olabilir. Bir yanlışlık görürseniz destek bileti göndermekten çekinmeyin, birlikte düzeltelim. Keyifli oyunlar!
+"
+"en:
+Hello! I have some good news about languages in this update.
 
-Bir uyarı: depodaki yasa dışı mallar polis riskine hâlâ katkıda bulunur, ama envanterdekinden daha az görünür. Bu yüzden her şeyi depoya koyup polisten tamamen kaçmak mümkün değil. Ayrıca bir arsayı satmadan önce deponuzdaki malın yeni kapasiteye sığdığından emin olun; sığmıyorsa satış engellenir ve önce depodan mal almanız istenir.
+German, French, Chinese, Japanese and Hindi language support has been added! You can now play the game in these languages too. You can pick the language with the Change Language button in Settings.
 
-Şimdi güzel bir haber: Türkçe dilinde çalışan bir bilgi yarışması oyunu beta olarak yayımlandı! Denemek için şu adrese göz atın: https://bilgiarena.netlify.app/ — deneyip fikirlerinizi paylaşırsanız çok seviniriz, geri bildiriminiz oyunu geliştirmemize yardımcı olur.
-
-Yakında çıkacak bir başka oyunumuz da metin tabanlı bir siber saldırı oyunu olacak; onunla ilgili haberleri de buradan duyuracağım.
-
-Son olarak: yakında oyuna birçok yeni dil eklenecek. Bunlar arasında Almanca, Hintçe ve daha birçok dil var. Yeni diller hazır oldukça buradan duyuracağım.
-
-Bir sorun görürseniz ya da bir fikriniz olursa destek bileti göndermekten çekinmeyin. Keyifli oyunlar!
-""en:
-Hello! In this message I want to explain the warehouse system, because some of you have asked "how does the warehouse work, what is it for?"
-
-The warehouse is a separate storage area that comes into play when you buy land. It is opened with the "Warehouse" button on the land management screen. When the total market value of the goods in your main inventory exceeds a certain limit, you cannot buy more; the way to get past that limit is to buy land. Every plot you own contributes to a shared warehouse that holds goods worth half of its purchase price. So the more land you have, the larger your warehouse capacity.
-
-To put goods into the warehouse: in the Warehouse window, select a product from the list, enter a quantity and press "Deposit". You can also use "Deposit All" to move your entire stock at once. Goods in the warehouse do not appear in your main inventory and do not occupy main inventory capacity, so they free up room for new purchases. When you need them, you can take them back with "Withdraw" or "Withdraw All" from the same window. Withdrawing does not check main inventory capacity, so you will never get your own goods stuck in the warehouse. Only new purchases are limited by the main inventory limit.
-
-One warning: illegal goods in the warehouse still contribute to police risk, though they are less visible than goods in your inventory. So you cannot completely escape the police by moving everything into the warehouse. Also, before selling a plot, make sure the goods in your warehouse fit into the new capacity; if they do not, the sale is blocked and you are asked to withdraw goods first.
-
-Finally: many new languages will be added to the game soon. These include German, Hindi and many more. I will announce new languages here as they become ready.
-
-If you notice a problem or have an idea, feel free to send a support ticket. Enjoy the game!
+The translations were prepared with the help of AI, so there may be mistakes in some places. If you notice one, feel free to send a support ticket and we will fix it together. Enjoy the game!
 "
 "id:
-Halo! Dalam pesan ini saya ingin menjelaskan sistem gudang, karena beberapa dari Anda bertanya "bagaimana gudang bekerja, untuk apa?"
+Halo! Ada kabar baik soal bahasa di pembaruan ini.
 
-Gudang adalah area penyimpanan terpisah yang aktif saat Anda membeli tanah. Gudang dibuka dengan tombol "Gudang" di layar pengelolaan tanah. Ketika total nilai pasar barang di inventaris utama Anda melewati batas tertentu, Anda tidak bisa membeli lagi; cara untuk melewati batas itu adalah membeli tanah. Setiap bidang tanah yang Anda miliki menyumbang ke gudang bersama yang menampung barang senilai setengah dari harga belinya. Jadi semakin banyak tanah, semakin besar kapasitas gudang Anda.
+Dukungan bahasa Jerman, Prancis, Mandarin, Jepang, dan Hindi telah ditambahkan! Sekarang Anda bisa memainkan game ini dalam bahasa-bahasa tersebut. Anda bisa memilih bahasa lewat tombol Ubah Bahasa di Pengaturan.
 
-Untuk menaruh barang di gudang: di jendela Gudang, pilih produk dari daftar, masukkan jumlah dan tekan "Simpan". Anda juga bisa memakai "Simpan Semua" untuk memindahkan seluruh stok sekaligus. Barang di gudang tidak muncul di inventaris utama dan tidak memakan kapasitas inventaris utama, sehingga memberi ruang untuk pembelian baru. Saat dibutuhkan, ambil kembali dengan "Ambil" atau "Ambil Semua" dari jendela yang sama. Mengambil tidak memeriksa kapasitas inventaris utama, jadi barang Anda tidak akan pernah terjebak di gudang. Hanya pembelian baru yang dibatasi oleh batas inventaris utama.
-
-Satu peringatan: barang ilegal di gudang tetap berkontribusi pada risiko polisi, meskipun lebih tidak terlihat dibandingkan barang di inventaris Anda. Jadi Anda tidak bisa sepenuhnya menghindari polisi dengan memindahkan semuanya ke gudang. Selain itu, sebelum menjual tanah, pastikan barang di gudang Anda muat dalam kapasitas baru; jika tidak, penjualan diblokir dan Anda diminta menarik barang terlebih dahulu.
-
-Terakhir: banyak bahasa baru akan segera ditambahkan ke game. Di antaranya Jerman, Hindi dan masih banyak lagi. Saya akan mengumumkan bahasa baru di sini begitu siap.
-
-Jika Anda menemukan masalah atau punya ide, jangan ragu mengirim tiket dukungan. Selamat bermain!
+Terjemahannya dibuat dengan bantuan AI, jadi mungkin ada kesalahan di beberapa bagian. Jika Anda menemukannya, jangan ragu mengirim tiket dukungan dan kita perbaiki bersama. Selamat bermain!
 "
 "pt:
-Olá! Nesta mensagem quero explicar o sistema de armazém, porque algumas pessoas perguntaram "como o armazém funciona, para que serve?"
+Olá! Tenho boas notícias sobre idiomas nesta atualização.
 
-O armazém é uma área de armazenamento separada que entra em ação quando você compra terrenos. Ele é aberto com o botão "Armazém" na tela de gestão de terrenos. Quando o valor total de mercado dos bens no seu inventário principal ultrapassa um certo limite, você não pode comprar mais; a forma de passar desse limite é comprar terrenos. Cada terreno que você possui contribui para um armazém compartilhado que guarda bens no valor de metade do preço de compra. Então, quanto mais terrenos você tiver, maior será a capacidade do seu armazém.
+O suporte aos idiomas alemão, francês, chinês, japonês e hindi foi adicionado! Agora você também pode jogar nesses idiomas. Você pode escolher o idioma pelo botão Alterar idioma nas Configurações.
 
-Para colocar bens no armazém: na janela do Armazém, selecione um produto na lista, informe uma quantidade e pressione "Depositar". Você também pode usar "Depositar Tudo" para mover todo o seu estoque de uma vez. Os bens no armazém não aparecem no inventário principal e não ocupam a capacidade do inventário principal, então liberam espaço para novas compras. Quando precisar deles, você pode retirá-los com "Retirar" ou "Retirar Tudo" na mesma janela. A retirada não verifica a capacidade do inventário principal, então seus próprios bens nunca ficarão presos no armazém. Apenas novas compras são limitadas pelo limite do inventário principal.
+As traduções foram feitas com a ajuda de IA, então pode haver erros em alguns pontos. Se você notar algum, fique à vontade para enviar um chamado de suporte e vamos corrigir juntos. Bom jogo!
+"
+"de:
+Hallo! In diesem Update habe ich gute Nachrichten zu den Sprachen.
 
-Um aviso: bens ilegais no armazém ainda contribuem para o risco policial, embora sejam menos visíveis do que os bens no seu inventário. Por isso você não consegue escapar completamente da polícia movendo tudo para o armazém. Além disso, antes de vender um terreno, certifique-se de que os bens no seu armazém cabem na nova capacidade; se não couberem, a venda é bloqueada e você é solicitado a retirar bens primeiro.
+Die Unterstützung für Deutsch, Französisch, Chinesisch, Japanisch und Hindi wurde hinzugefügt! Sie können das Spiel jetzt auch in diesen Sprachen spielen. Die Sprache wählen Sie über die Schaltfläche „Sprache ändern“ in den Einstellungen.
 
-Por fim: muitas novas línguas serão adicionadas ao jogo em breve. Entre elas estão alemão, híndi e muitas outras. Anunciarei aqui as novas línguas assim que estiverem prontas.
+Die Übersetzungen wurden mit Hilfe von KI erstellt, daher kann es an einigen Stellen Fehler geben. Wenn Sie einen bemerken, senden Sie gerne ein Support-Ticket, dann korrigieren wir ihn gemeinsam. Viel Spaß beim Spielen!
+"
+"fr:
+Bonjour ! J'ai de bonnes nouvelles concernant les langues dans cette mise à jour.
 
-Se você notar algum problema ou tiver uma ideia, fique à vontade para enviar um chamado de suporte. Bom jogo!
+La prise en charge de l'allemand, du français, du chinois, du japonais et de l'hindi a été ajoutée ! Vous pouvez désormais jouer dans ces langues aussi. Vous pouvez choisir la langue avec le bouton Changer la langue dans les Paramètres.
+
+Les traductions ont été préparées avec l'aide de l'IA, il peut donc y avoir des erreurs à certains endroits. Si vous en remarquez une, n'hésitez pas à envoyer un ticket d'assistance et nous la corrigerons ensemble. Bon jeu !
+"
+"zh:
+您好！这次更新有关于语言的好消息。
+
+新增了德语、法语、中文、日语和印地语支持！现在您也可以用这些语言玩游戏了。您可以通过“设置”中的“更改语言”按钮选择语言。
+
+翻译是在 AI 的帮助下完成的，因此某些地方可能存在错误。如果您发现问题，欢迎随时提交支持工单，我们会一起改正。祝您游戏愉快！
+"
+"ja:
+こんにちは！今回のアップデートで、言語についてうれしいお知らせがあります。
+
+ドイツ語、フランス語、中国語、日本語、ヒンディー語のサポートが追加されました！これらの言語でもゲームを遊べるようになりました。言語は「設定」の「言語を変更」ボタンから選べます。
+
+翻訳はAIの助けを借りて作成したため、一部に誤りがあるかもしれません。見つけたら、遠慮なくサポートチケットを送ってください。一緒に直していきましょう。楽しくプレイしてください！
+"
+"hi:
+नमस्ते! इस अपडेट में भाषाओं को लेकर अच्छी खबर है।
+
+जर्मन, फ़्रेंच, चीनी, जापानी और हिन्दी भाषा का समर्थन जोड़ा गया है! अब आप गेम इन भाषाओं में भी खेल सकते हैं। आप सेटिंग्स में 'भाषा बदलें' बटन से भाषा चुन सकते हैं।
+
+अनुवाद AI की मदद से तैयार किए गए हैं, इसलिए कुछ जगहों पर गलतियाँ हो सकती हैं। यदि आपको कोई गलती दिखे, तो बेझिझक सपोर्ट टिकट भेजें, हम मिलकर उसे ठीक कर लेंगे। खेल का आनंद लें!
 "
